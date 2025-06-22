@@ -1,12 +1,7 @@
 [
   {
-    "id": "gtaiv",
-    "game_name": "Grand Theft Auto VI",
+    "id": "nga",
+    "game_name": "No Games Available",
     "client_id": "1386151154542448720"
-  },
-  {
-    "id": "borderlands4",
-    "game_name": "Borderlands 4",
-    "client_id": "234567890123456789"
   }
 ]
